@@ -35,15 +35,7 @@ public class CountPrefixSuffixPairs {
 		return qt;
   }
 	
-	static boolean isPrefixAndSuffix(String str1, String str2) {
-
-//		--------------Other way to verify--------------
-//		if (str1.length() > str2.length())
-//			return false;
-//
-//		if (str2.startsWith(str1) && str2.endsWith(str1))
-//			return true;
-
+	private static boolean isPrefixAndSuffix(String str1, String str2) {
 		return str1.length() <= str2.length() && str2.startsWith(str1) && str2.endsWith(str1);
 	}
 }
