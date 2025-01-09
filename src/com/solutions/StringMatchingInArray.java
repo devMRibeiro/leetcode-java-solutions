@@ -24,7 +24,7 @@ import java.util.ArrayList;
  */
 public class StringMatchingInArray {
 
-  public static ArrayList<String> stringMatching(String[] words) {
+	public static ArrayList<String> stringMatching(String[] words) {
   	
   	ArrayList<String> answer = new ArrayList<String>();
     int n = words.length;
