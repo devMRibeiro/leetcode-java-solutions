@@ -20,12 +20,12 @@ package com.solutions;
  * 
  */
 public class CountPrefixSuffixPairs {
-	
+
 	public static int countPrefixSuffixPairs(String[] words) {
 
 		int wLen = words.length;
 		int qt = 0;
-		
+
 		for (int i = 0; i < wLen; i++) {
 			for (int j = i + 1; j < wLen; j++) {
 				if (isPrefixAndSuffix(words[i], words[j]))
@@ -34,7 +34,7 @@ public class CountPrefixSuffixPairs {
 		}
 		return qt;
   }
-	
+
 	private static boolean isPrefixAndSuffix(String str1, String str2) {
 		return str1.length() <= str2.length() && str2.startsWith(str1) && str2.endsWith(str1);
 	}
