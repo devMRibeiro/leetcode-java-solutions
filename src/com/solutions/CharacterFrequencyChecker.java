@@ -32,11 +32,4 @@ public class CharacterFrequencyChecker {
 		
 		return true;
   }
-	
-	public static void main(String[] args) {
-		
-		String s = "abcbca";
-		
-		System.out.println(areOccurrencesEqual(s));
-	}
 }
