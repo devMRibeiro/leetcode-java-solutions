@@ -29,7 +29,7 @@ public class CharacterFrequencyChecker {
 		for (Integer value : hmOcurrences.values())
 			if (!firstValue.equals(value))
 				return false;
-		
+
 		return true;
   }
 }
