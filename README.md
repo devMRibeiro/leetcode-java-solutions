@@ -7,6 +7,7 @@ This repo serves as my personal lab for practicing LeetCode problems in Java.
 
 ## Structure
 All solution classes are located in:
+```
 src/
 └── com/
     └── solutions/
@@ -20,7 +21,7 @@ src/
         ├── StringMatchingInArray.java
         ├── SumOfDigitsAfterConversion.java
         └── ValidAnagram.java
-
+```
 ---
 ##pt-Br
 
@@ -31,6 +32,7 @@ Este repositório é meu laboratório de prática com problemas do LeetCode, usa
 
 ## Estrutura
 As classes com as soluções estão localizadas em:
+```
 src/
 └── com/
     └── solutions/
@@ -44,3 +46,4 @@ src/
         ├── StringMatchingInArray.java
         ├── SumOfDigitsAfterConversion.java
         └── ValidAnagram.java
+```
