@@ -23,7 +23,7 @@ src/
         └── ValidAnagram.java
 ```
 ---
-##pt-Br
+## pt-Br
 
 Este repositório contém minhas soluções para desafios do [LeetCode](https://leetcode.com/) utilizando **Java**.
 
