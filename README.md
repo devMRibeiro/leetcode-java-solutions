@@ -1,5 +1,29 @@
 # LeetCode Java Solutions
 
+This repository contains my solutions to [LeetCode](https://leetcode.com/) challenges using **Java**.
+
+## Purpose
+This repo serves as my personal lab for practicing LeetCode problems in Java.
+
+## Structure
+All solution classes are located in:
+src/
+└── com/
+    └── solutions/
+        ├── CharacterFrequencyChecker.java
+        ├── CountingWordsWithAPrefix.java
+        ├── CountPrefixSuffixPairs.java
+        ├── Factorial.java
+        ├── FindTheDifference.java
+        ├── IsomorphicStrings.java
+        ├── MissingNumber.java
+        ├── StringMatchingInArray.java
+        ├── SumOfDigitsAfterConversion.java
+        └── ValidAnagram.java
+
+---
+##pt-Br
+
 Este repositório contém minhas soluções para desafios do [LeetCode](https://leetcode.com/) utilizando **Java**.
 
 ## Objetivo
