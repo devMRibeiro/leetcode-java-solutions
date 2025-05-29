@@ -1,4 +1,4 @@
-package com.solutions;
+package com.github.devmribeiro.solutions;
 
 /**
  * 1945. Sum of Digits of String After Convert
