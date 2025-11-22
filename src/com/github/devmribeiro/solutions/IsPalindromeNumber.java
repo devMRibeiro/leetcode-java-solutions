@@ -21,7 +21,7 @@ package com.github.devmribeiro.solutions;
  * Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
  * 
 */
-public class IsPalindrome {
+public class IsPalindromeNumber {
 	public boolean isPalindrome(int x) {
 		if (x < 0) return false;
 		int original = x;
